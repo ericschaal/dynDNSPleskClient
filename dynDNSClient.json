@@ -1,0 +1,6 @@
+{
+  "server": "http://localhost",
+  "delay": 5,
+  "port": "9977",
+  "token": "123456789"
+}
